@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/GerenciamentoDeEstoque.props" />
+</Project>
